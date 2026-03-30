@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Domain-Fintech-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Domain-Edutech-orange?style=for-the-badge"/>
 </p>
 
 ---
@@ -36,6 +37,7 @@ I combine a solid foundation in statistics with modern software engineering prac
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+   <img src="https://img.shields.io/badge/PowerBi-217346?style=for-the-badge&logo=microsoft-powerbi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
