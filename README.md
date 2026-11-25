@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm Taye Matthew ALABI</h2>
 
-<h3 align="left">Software Engineer | Data Analyst | School Management Software Specialist</h3>
+<h3 align="left"> Fintech Software Engineer | Software Engineer | Data Analyst | School Management Software Specialist</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering-blue?style=for-the-badge"/>
